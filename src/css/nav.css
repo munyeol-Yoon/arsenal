@@ -1,0 +1,20 @@
+header {
+  border: 1px solid black;
+  background-color: #dc2f21;
+}
+img {
+  width: 150px;
+  height: 110px;
+  cursor: pointer;
+}
+nav {
+  display: flex;
+}
+ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-size: 1.5rem;
+}
